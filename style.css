@@ -1,0 +1,88 @@
+/* body-img 1 */
+.body-img{
+    width:100%;
+    min-height:807.29px;
+    background-image: url(img/tangalar.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.p-ustun{
+    margin-top: 100px;
+}
+.a-razmer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100px;
+    height: 100px;
+    background-color:#1E1E20;
+    border: 1px solid gray;
+}
+.a-razmer2{
+    width: 200px;
+    height: 100px;
+    background-color:#1E1E20;
+    border: 1px solid gray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.a-razmer2:hover{
+    background-color: #DCCa87;
+    color: black;
+    transition: 0.3s;
+}
+.a-razmer:hover{
+    background-color: #DCCa87;
+    color: black;
+    transition: 0.3s;
+}
+/* body-img 1 end */
+/* body-img 2 */
+.body-img2{
+    background-image: url(img/inson-tangalari.png);
+    width: 100%;
+    min-height: 900px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.button{
+    width: 300px;
+    height: 70px;
+    background-color: #1E1E20;
+    border: 1px solid black;
+    margin-top: 100px;
+}
+.button:hover{
+    background-color: #DCCa87;
+    color: black;
+    transition: 0.3s;
+}
+/* body-img 2 end */
+/* body img 3 */
+.body-img3{
+    background-image: url(img/radio-tolqini.png);
+    width: 100%;
+    min-height: 900px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+/* body img 3 end  */
+/* body img 4 */
+.body-img4{
+    background-image: url(img/kumush-$.png);
+    width: 100%;
+    min-height: 900px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+/* body img 4 end  */
+
+
+
+
